@@ -67,7 +67,7 @@ From the MLflow UI, in the Experiments, you can choose the MLflow Run containing
 You can check the Artifacts, which contain the model and the yaml file. 
 
 ![alt text](image.png)
-
+Reference: [MLflow documentation](https://mlflow.org/docs/2.14.3/model-registry.html#registry)
 
 Then, you can register the model either by clicking <code>Register Model</code> on the UI or with the following code.
 ```
